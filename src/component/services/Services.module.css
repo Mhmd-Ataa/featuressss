@@ -1,0 +1,13 @@
+.services .first{
+    background-image: url("../../Assets/images/p-7.png");
+    background-position: center;
+    background-size: cover;
+    height: 70vh;
+    color: white;
+}
+/* .services .cardd{
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 7px;
+    
+
+} */

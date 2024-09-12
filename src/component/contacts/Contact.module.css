@@ -1,0 +1,10 @@
+.contacts .first{
+    height: 70vh;
+    background-image: url("../../Assets/images/banner.png");
+    background-position: center center ;
+    background-size: cover;
+    color: white;
+}
+.cardd{
+box-shadow:  5px 5px 20px gray;    
+}

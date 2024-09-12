@@ -1,0 +1,33 @@
+.pricing .first{
+    height: 70vh;
+    background-image: url("../../Assets/images/p-4.png");
+    background-position: center ;
+    background-size: cover;
+    color: white;
+}
+/* .cardd{
+    background-color: white;
+    box-shadow: 2px 2px 20px gray;
+    display: flex;
+}
+.text{
+    column-gap: 40px;
+}
+.pricing h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.pricing .icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.cardd button{
+    background-color: orangered;
+    color: white;
+}
+ .carddd:nth-child(1) .cardd .best button ,
+ .carddd:nth-child(3) .cardd .best button 
+{
+    display: none;
+} */

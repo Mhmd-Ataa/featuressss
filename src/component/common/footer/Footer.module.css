@@ -1,0 +1,30 @@
+.footer{
+    color: white;
+}
+.first{
+    height: 22vh;
+
+}
+.footer button{
+    background-color: white;
+    height: 60px;
+    width: 200px;
+    border-radius: 50px;
+    color: green;
+}
+.second{
+   
+    background-color: rgb(12, 12, 64);
+}
+.second .btn2{
+    background-color: rgb(5, 84, 5);
+    color: white;
+    border-radius: 6px ;
+    height: 45px;
+    width: 150px;
+    outline: 0;
+    border: 0;
+}
+ .inputBox{
+    height: 45px;
+}

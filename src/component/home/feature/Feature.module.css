@@ -1,0 +1,9 @@
+.feature{
+   
+    background-color: rgba(0, 128, 128, 0.027);
+}
+.feature .cardd{
+    box-shadow: 5px 5px 20px gray;
+    border-radius: 7px;
+
+}

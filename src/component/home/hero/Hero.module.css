@@ -1,0 +1,20 @@
+.hero{
+    background-image: url('../../../Assets/images/banner.png');
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.box1{
+    height: 40px;
+}
+.hero .box{
+    color: black;
+}
+.hero h1{
+    font-size: 70px ;
+    font-weight: 600 ;
+}
+.hero label{
+    color: gray;
+    font-size: 14px;
+}

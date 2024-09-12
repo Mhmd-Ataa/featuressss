@@ -1,0 +1,17 @@
+.awards{
+    background-color: rgb(27, 72, 108);
+    color: white;
+}
+.awards span{
+    color: green;
+}
+.awards .icon{
+    background-color:lightsteelblue;
+    width: 70px;
+    height: 70px;
+    border-top-right-radius:30px ;
+    border-bottom-left-radius: 30px;
+}
+.awards h2{
+    font-weight: 700;
+}
